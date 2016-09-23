@@ -1,0 +1,2 @@
+# HIT_CSDN_member_info
+用于存储俱乐部成员信息和作业检查
